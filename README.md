@@ -4,3 +4,4 @@
 # chmod +x install.sh
 # ./install.sh
 # and payload send Target or Victim
+# and open youtube.bat
