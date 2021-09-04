@@ -1,1 +1,1 @@
-python3 backdoor.py
+apt install python
