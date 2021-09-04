@@ -3,4 +3,4 @@
 # cd remove-access
 # chmod +x start.sh
 # ./start.sh
-# and payload send garage
+# and payload send Target or Victim
