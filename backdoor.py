@@ -61,3 +61,11 @@ while 1:
      print("Done..")
   elif command == "ls":
      os.system("ls")
+  elif command == "help":
+    print("Commands : 
+        file : show Place
+        clear : remove screen
+        dir : show dir
+        move : give file from Target or Victim
+        remove : Delete file of Target or Victim
+        send : send file from Device Your and send of Target or Victim")
